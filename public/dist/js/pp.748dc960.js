@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pp"],{"4ec2":function(c,n,e){"use strict";e.r(n);var o=e("7a23");function t(c,n,e,t,r,a){return Object(o["openBlock"])(),Object(o["createBlock"])("h1",null,"Privacy Policy")}var r={name:"PP",mounted:function(){location.href="/privacy_policy.html"}};r.render=t;n["default"]=r}}]);
+//# sourceMappingURL=pp.748dc960.js.map

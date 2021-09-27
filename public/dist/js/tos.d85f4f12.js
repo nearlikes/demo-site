@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["tos"],{fe84:function(e,n,o){"use strict";o.r(n);var t=o("7a23");function c(e,n,o,c,r,a){return Object(t["openBlock"])(),Object(t["createBlock"])("h1",null,"TOS")}var r={name:"TOS",mounted:function(){location.href="/termsofservice.html"}};r.render=c;n["default"]=r}}]);
+//# sourceMappingURL=tos.d85f4f12.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["help"],{c3ef:function(e,n,c){"use strict";c.r(n);var o=c("7a23");function t(e,n,c,t,l,r){return Object(o["openBlock"])(),Object(o["createBlock"])("h1",null,"HELP")}var l={name:"Help",mounted:function(){location.href="/help.html"}};l.render=t;n["default"]=l}}]);
+//# sourceMappingURL=help.bcc3a765.js.map
